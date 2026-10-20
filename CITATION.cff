@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: >-
+  Cite the original Science study when using these data. The preferred citation
+  below is for that study, not for the downloader. The top-level software record
+  identifies this independent downloader separately.
+title: Dumortier 2019 dataset downloader
+type: software
+version: 0.2.0
+authors:
+  - family-names: Strawbridge
+    given-names: Stanley E.
+repository-code: https://github.com/stanleystrawbridge/dumortier-2019-downloader
+url: https://github.com/stanleystrawbridge/dumortier-2019-downloader
+license: GPL-3.0-only
+abstract: >-
+  Independent single-script downloader for publicly linked imaging and associated
+  data accompanying Dumortier et al. (Science, 2019), hosted by Institut Curie.
+  Supports user-selected destinations, cached inventories and resumable transfers.
+keywords:
+  - mouse embryo
+  - blastocyst
+  - microscopy
+  - research data
+  - downloader
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Dumortier
+      given-names: Julien G.
+    - family-names: Le Verge-Serandour
+      given-names: Mathieu
+    - family-names: Tortorelli
+      given-names: Anna Francesca
+    - family-names: Mielke
+      given-names: Annette
+    - family-names: de Plater
+      given-names: Ludmilla
+    - family-names: Turlier
+      given-names: Hervé
+    - family-names: Maître
+      given-names: Jean-Léon
+  title: Hydraulic fracturing and active coarsening position the lumen of the mouse blastocyst
+  journal: Science
+  volume: '365'
+  issue: '6452'
+  start: '465'
+  end: '468'
+  year: 2019
+  month: 8
+  doi: 10.1126/science.aaw7709
+  url: https://www.science.org/doi/10.1126/science.aaw7709
